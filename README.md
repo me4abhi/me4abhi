@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @me4abhi 🐱‍🏍
+- 👋 Hi, I’m @me4abhi
 - 👀 I’m interested in web & mobile development
 - 🌱 I’m currently learning React.js
-- 📫 LinkedIn @ IN/me4abhi
+- 📫 LinkedIn.com/IN/me4abhi

@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Abhinav
 - 👀 I’m interested in web & mobile development
-- 🌱 I’m currently learning React.js
+- 🌱 ReactJS, NodeJS, Flutter
 - 📫 LinkedIn.com/IN/me4abhi

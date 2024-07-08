@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhinav Saini</h1>
-<h3 align="center">A passionate front-end developer from India</h3>
+<h3 align="center">A passionate Front-end Developer from India</h3>
 
 - 🔭 I’m currently working on re-designing my pet project **Coding Akhada**
-
-- 🌱 I’m currently learning **NextJS, NodeJS, and Generative AI**
-
-- 👨‍💻 All of my projects are available at [me4abhi.github.io](me4abhi.github.io)
 
 - 📝 I regularly write articles on [https://codingakhada.com](https://codingakhada.com)
 
 - 💬 Ask me about **JavaScript, React JS, Next JS**
 
-- 📫 How to reach me **abhinavsaini.dev@gmail.com**
+- 📫 Reach me at **abhinavsaini.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

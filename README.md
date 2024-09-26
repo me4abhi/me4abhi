@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav Saini</h1>
 <h3 align="center">A passionate Front-end Developer from India</h3>
 
-- 🔭 I’m currently working on my project **Coding Akhada**
-
-- 📝 I regularly write articles on [https://blog.codingakhada.com](https://blog.codingakhada.com)
-
 - 💬 Ask me about **JavaScript, React JS, Next JS**
 
 - 📫 Reach me at **abhinavsaini.dev@gmail.com**

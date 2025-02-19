@@ -1,38 +1,38 @@
-👋 Hi, I'm Abhinav!
+import React from 'react';
 
-I'm a frontend engineer with 3+ years of experience in building dynamic and responsive web applications. I specialize in creating efficient, scalable, and user-friendly interfaces using modern web technologies.
+# 👋 Hi, I'm Abhinav!
 
-💻 Tech Stack
+I'm a frontend engineer with **3+ years** of experience in building dynamic and responsive web applications. I specialize in creating efficient, scalable, and user-friendly interfaces using modern web technologies.
 
-Frontend: HTML, CSS, JavaScript, React.js, Next.js
+## 💻 Tech Stack
 
-Styling: SCSS, CSS Modules, TailwindCSS
+### **Frontend**
+- HTML, CSS, JavaScript, React.js, Next.js
 
-State Management: Redux, Context API
+### **Styling**
+- SCSS, CSS Modules, TailwindCSS
 
-Other Tools: Vite, Git, Webpack, ESLint
+### **State Management**
+- Redux, Context API
 
-🚀 What I Do
+### **Other Tools**
+- Vite, Git, Webpack, ESLint
 
-Frontend Development: Building robust and dynamic user interfaces
+## 🚀 What I Do
 
-Product Development: Passionate about building products from concept to deployment
+- **Frontend Development:** Building robust and dynamic user interfaces
+- **Product Development:** Passionate about building products from concept to deployment
+- **Product Management:** Interested in bridging the gap between technology and business
 
-Product Management: Interested in bridging the gap between technology and business
+## 🌱 Currently Learning
 
-🌱 Currently Learning
+- Advanced Product Management techniques
+- Generative AI and Prompt Engineering
 
-Advanced Product Management techniques
+## 📫 Let's Connect
 
-Generative AI and Prompt Engineering
-
-📫 Let's Connect
-
-LinkedIn: Abhishek's LinkedIn
-
-Portfolio: me4abhi.com
-
-Email: me4abhi@hotmail.com
+- [LinkedIn](https://www.linkedin.com/in/me4abhi)  
+- [Portfolio](https://me4abhi.com)  
+- [Email](mailto:me4abhi@hotmail.com)
 
 Thanks for stopping by! 😄
-

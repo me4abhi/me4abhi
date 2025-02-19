@@ -1,5 +1,3 @@
-import React from 'react';
-
 # 👋 Hi, I'm Abhinav!
 
 I'm a frontend engineer with **3+ years** of experience in building dynamic and responsive web applications. I specialize in creating efficient, scalable, and user-friendly interfaces using modern web technologies.

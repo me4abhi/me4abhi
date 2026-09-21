@@ -5,7 +5,7 @@ I'm a frontend engineer with **4+ years** of experience in building dynamic and 
 ## 💻 Tech Stack
 
 ### **Frontend**
-- HTML, CSS, JavaScript, React.js, Next.js
+- HTML, CSS, JavaScript, React.js, Next.js, React Native
 
 ### **Styling**
 - SCSS, CSS Modules, TailwindCSS
